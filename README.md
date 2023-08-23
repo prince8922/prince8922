@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/hirentimbadiya/hirentimbadiya/master/name.svg" alt="Hiren Timbadiya" />
+  <img src="https://github.com/prince8922/Prince/blob/main/name.svg" alt="Hiren Timbadiya" />
 </h1>
 <h1 align="center">Hi 👋,  I'm Hiren Timbadiya</h1>
 <h3 align="center">A Passionate Developer and Programmer from India.</h3>
