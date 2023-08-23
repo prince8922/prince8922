@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://github.com/prince8922/Prince/blob/main/name.svg" alt="Hiren Timbadiya" />
+  <img src="https://github.com/prince8922/Prince/blob/main/name.svg" alt="Prince Khachariya" />
 </h1>
-<h1 align="center">Hi 👋,  I'm Hiren Timbadiya</h1>
+<h1 align="center">Hi 👋,  I'm Prince Khachariya</h1>
 <h3 align="center">A Passionate Developer and Programmer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince8922&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="hirentimbadiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince8922&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="PrinceKhachariya" /> </p>
 
 - 🔭 I’m currently working on **Backend Development and Web 3**
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hirentimbadiya74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirentimbadiya74" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hirentimbadiya74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hirentimbadiya74" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hirentimbadiya74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hirentimbadiya74" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/princekhachariya892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princekhachariya892" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Prince892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prince892" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/princekhac18zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prince892" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
