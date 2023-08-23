@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋,  I'm Hiren Timbadiya</h1>
 <h3 align="center">A Passionate Developer and Programmer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirentimbadiya&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="hirentimbadiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince8922&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="hirentimbadiya" /> </p>
 
 - 🔭 I’m currently working on **Backend Development and Web 3**
 
@@ -23,11 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hirentimbadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hirentimbadiya" height="30" width="40" /></a>
-<a href="https://twitter.com/heyhiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyhiru" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hirentimbadiya74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirentimbadiya74" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20626209/hiren-timbadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hiren-timbadiya" height="30" width="40" /></a>
-<a href="https://instagram.com/heyhiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyhiru" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hirentimbadiya74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hirentimbadiya74" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hirentimbadiya74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hirentimbadiya74" height="30" width="40" /></a>
 </p>
