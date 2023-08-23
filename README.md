@@ -6,19 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince8922&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="PrinceKhachariya" /> </p>
 
-- 🔭 I’m currently working on **Backend Development and Web 3**
+- 🔭 I’m currently working on **Android Development.**
 
-- 🌱 I’m currently learning **Backend Development and Solidity**
+- 🌱 I’m currently learning **OOPS.**
 
-- 👯 I’m looking to collaborate on **Heckathons and Open Source Contributions**
+- 👯 I’m looking to collaborate on **Heckathons and Open Source Contributions.**
 
-- 🤝 I’m looking for help with **Opensource Contributions**
+- 🤝 I’m looking for help with **Opensource Contributions.**
 
-- 💬 Ask me about **Javascript , React.js , Java , Data Structures and Algorithms**
+- 💬 Ask me about **Javascript , Java , SQL.**
 
-- 📫 How to reach me **hirentimbadiya74@gmail.com**
+- 📫 How to reach me **princekhachariya3057@gmail.com**
 
-- ⚡ Fun fact **I think I am very good Chef👨🏻‍🍳 & can Cook Gujarati🍛 and SouthIndian🍲 Dishes with some Italian🍕 Cuisines as well.❤**
+- ⚡ Fun fact **I think I am very good Team Player at Cricket and as well as Kabaddi .❤**
 
 
 <h3 align="left">Connect with me:</h3>
