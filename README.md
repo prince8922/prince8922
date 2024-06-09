@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince8922&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="PrinceKhachariya" /> </p>
 
-- 🔭 I’m currently working on **Android Development.**
+- 🔭 I’m currently working on **Flutter Development.**
 
 - 🌱 I’m currently learning **OOPS.**
 
